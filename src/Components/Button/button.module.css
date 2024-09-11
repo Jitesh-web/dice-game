@@ -1,0 +1,26 @@
+.btnStyling {
+  background-color: black;
+  padding: 10px 70px;
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btnNumbers {
+  background-color: white;
+  padding: 20px 30px;
+  color: black;
+  font-size: 30px;
+  font-weight: 600;
+  margin: 14px;
+  border: 1px solid black;
+  box-shadow: -1px 1px 10px rgba(0, 0, 0, 0.3);
+  white-space: nowrap;
+}
+
+.btnNumbers:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}

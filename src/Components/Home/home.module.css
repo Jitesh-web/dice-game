@@ -1,0 +1,24 @@
+.home_container {
+  width: 100vw;
+  max-width: 1182px;
+  height: 522px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 180px;
+  left: 129px;
+}
+
+.home_title {
+  font-size: 90px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.descSection {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
