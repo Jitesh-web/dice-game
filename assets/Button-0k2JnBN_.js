@@ -1,1 +1,0 @@
-import{R as e,j as r}from"./index--KSO0eC6.js";const m="_btnStyling_1qsa3_1",a="_btnNumbers_1qsa3_19",t={btnStyling:m,btnNumbers:a},c=e.memo(({text:n,number:s,onClick:b})=>{const o=s?t.btnNumbers:t.btnStyling;return r.jsx("button",{onClick:b,className:o,children:n})});export{c as B};
